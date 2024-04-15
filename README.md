@@ -26,7 +26,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img src="https://banner2.cleanpng.com/20180331/rcq/kisspng-scratch-logo-scratch-logo-computer-programming-com-scratches-5abf2dd097a9c6.8886429015224785446212.jpg" height="40" alt="cplusplus logo"  />
+  <img src="https://banner2.cleanpng.com/20180331/rcq/kisspng-scratch-logo-scratch-logo-computer-programming-com-scratches-5abf2dd097a9c6.8886429015224785446212.jpg](https://upload.wikimedia.org/wikipedia/commons/b/b1/Scratch_S.svg" height="40" alt="cplusplus logo"  />
 </div>
 
 ###
